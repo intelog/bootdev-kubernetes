@@ -1,1 +1,1 @@
-# bootdev-kubernetes
+# Boot.dev Kubernetes Course
